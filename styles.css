@@ -36,3 +36,12 @@ input {
 img {
 	max-width: 300px;
 }
+
+.flex-row {
+	display: flex;
+	flex-direction: row;
+}
+
+.hobbies {
+	height: 200px;
+}
