@@ -45,3 +45,7 @@ img {
 .hobbies {
 	height: 200px;
 }
+.fav {
+	padding: 20px;
+	background-color: yellow;
+}
